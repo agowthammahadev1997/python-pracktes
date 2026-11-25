@@ -1,6 +1,6 @@
 student = {
     "name": "Gowtham",
-    "age": 20,
+    "age": 28,
     "city": "Vizag"
 }
 #print the dictionary
